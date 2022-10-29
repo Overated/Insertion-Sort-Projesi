@@ -53,10 +53,10 @@
 
 ## **2.Big-O gösterimi:**
 
-(n.(n+1))
-/2
-n^2+n/2
-Big Notation = Big-O 0(n^2)
+
+
+## $(n.(n+1))\over 2$   ➡️      $(n^2+n)\over 2$  ➡️  Big-O = $0(n^2)$ 
+
 
 -----
 
