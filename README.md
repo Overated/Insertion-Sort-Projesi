@@ -1,5 +1,9 @@
 # **Insertion Sort Projesi**
----------------------
+
+Bu repo [Patica.dev](https://www.patika.dev/tr) Veri Yapıları ve Algoritmalar Eğitiminde oluşturduğumuz insertion Sort Proje reposudur. İçerisinde bir adet README dosyası barındırmaktadır.
+
+-----
+## **Soru**
 [22,27,16,2,18,6] -> Insertion Sort
 
 1. Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
@@ -62,24 +66,52 @@
 
 ## **3.Time Complexity:**
 
-Best Case: 
+**Best Case:** Aradığımız verinin dizinin en başında bulunduğu durum
 
-Avarage Case: 
+![bestcase](https://raw.githubusercontent.com/Overated/Insertion-Sort-Projesi/main/image/bestcase.png)
 
-Worst Case: 
+**Avarage Case:** Aradığımız verinin dizinin ortasında bulunduğu durum
+
+![avaragecase](https://raw.githubusercontent.com/Overated/Insertion-Sort-Projesi/main/image/avaragecase.png)
+
+**Worst Case:** Aradığımız verinin dizinin en sonunda bulunduğu durum
+
+![worstcase](https://raw.githubusercontent.com/Overated/Insertion-Sort-Projesi/main/image/worstcase.png)
+
 
 ## **4.Dizi sıralandıktan sonra 18 Sayısı hangi case kapsamındadır;**
 
-Avarage Case: 
+Dizi sıralandıktan sonra 18 sayısı **Avarage Case** kapsamında bulunmaktadır
+
+![dizisıralama sonrası](https://raw.githubusercontent.com/Overated/Insertion-Sort-Projesi/main/image/dizisiralama.png)
 
 ## **5.Dizisinin Insertion Sort'a göre ilk 4 adımı;**
 
 ### *Adım 1*
 
+```
+[2,3,5,8,7,9,4,15,6] 
+```
+
+![Adım1](https://raw.githubusercontent.com/Overated/Insertion-Sort-Projesi/main/image/b1.png)
+
 ### *Adım 2*
+
+```
+[7,3,5,8,2,9,4,15,6] 
+```
+![Adım2]()
 
 ### *Adım 3*
 
+```
+[7,3,5,8,2,9,4,15,6] 
+```
+![Adım3](https://raw.githubusercontent.com/Overated/Insertion-Sort-Projesi/main/image/b2.png)
+
 ### *Adım 4*
 
-
+```
+[7,3,5,8,2,9,4,15,6] 
+```
+![Adım4](https://raw.githubusercontent.com/Overated/Insertion-Sort-Projesi/main/image/b4.png)
