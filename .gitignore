@@ -1,2 +1,5 @@
 # img
 
+*.jpeg
+*.png
+img/
