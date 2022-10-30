@@ -90,7 +90,7 @@ Dizi sıralandıktan sonra 18 sayısı **Avarage Case** kapsamında bulunmaktad�
 ### *Adım 1*
 
 ```
-[2,3,5,8,7,9,4,15,6] 
+[2,3,5,8,7,9,4,15,6]       Dizide 2 ile 7'nin yeri değişmiştir.
 ```
 
 ![Adım1](https://raw.githubusercontent.com/Overated/Insertion-Sort-Projesi/main/image/b1.png)
@@ -98,20 +98,29 @@ Dizi sıralandıktan sonra 18 sayısı **Avarage Case** kapsamında bulunmaktad�
 ### *Adım 2*
 
 ```
-[7,3,5,8,2,9,4,15,6] 
+[2,3,5,8,7,9,4,15,6]       Dizide 3 sayısı 2'den sonraki en büyük sayı olduğu için hiçbir sayı yer değişmemiştir. 
 ```
-![Adım2]()
+![Adım2](https://raw.githubusercontent.com/Overated/Insertion-Sort-Projesi/main/image/b5.png)
 
 ### *Adım 3*
 
 ```
-[7,3,5,8,2,9,4,15,6] 
+[2,3,4,8,7,9,5,15,6]       Dizide 5 ile 4'ün yeri değişmiştir.
 ```
 ![Adım3](https://raw.githubusercontent.com/Overated/Insertion-Sort-Projesi/main/image/b2.png)
 
 ### *Adım 4*
 
 ```
-[7,3,5,8,2,9,4,15,6] 
+[2,3,4,5,7,9,8,15,6]       Dizide 8 ile 5'in yeri değişmiştir. 
 ```
 ![Adım4](https://raw.githubusercontent.com/Overated/Insertion-Sort-Projesi/main/image/b4.png)
+
+
+[Patica.dev](https://www.patika.dev/tr)
+
+# Contributing
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+# License
+[MIT](https://choosealicense.com/licenses/mit/)
